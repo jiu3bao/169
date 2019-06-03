@@ -1,0 +1,14 @@
+@font-face {font-family: "fontb";
+    src: url('LCDM2B_.eot'); /* IE9 */
+    src: url('LCDM2B_.eot') format('embedded-opentype'), /* IE6-IE8 */
+        url('./LCDM2B_.ttf') format('truetype'),
+        url('LCDM2B_.woff') format('woff'),
+        url('./LCDM2B_.woff2') format('woff2'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+        url('LCDM2B_.svg') format('svg'); /* iOS 4.1- */
+}
+
+.fontb {
+    font-family: "fontb" !important ;
+    font-style: normal;
+  }
+  
